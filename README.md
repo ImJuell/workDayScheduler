@@ -1,5 +1,9 @@
 ## workDayScheduler
 
+## Description
+
+This is a 9-5 Work day scheduler that allows a user to save events.
+
 ## USER STORY
 
 AS AN employee with a busy schedule

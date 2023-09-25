@@ -16,7 +16,7 @@ $(function () {
    // attribute of each time-block be used to conditionally add or remove the
    // past, present, and future classes? How can Day.js be used to get the
    // current hour in 24-hour time?
-   currentTime = dayjs().format("HH")
+   currentTime = dayjs().format("H")
   
 
    console.log(currentTime)
@@ -50,5 +50,5 @@ $(function () {
    $("#hour-5 textarea").text(localStorage.getItem("hour-5"));
 
    // TODO: Add code to display the current date in the header of the page.
-   $("#currentDay").text(dayjs().format("dddd, MMMM DD"));
+   $("#currentDay").text(dayjs().format("dddd, MMMM D"));
 });

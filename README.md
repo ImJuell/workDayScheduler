@@ -40,4 +40,8 @@ THEN the saved events persist
 
 https://github.com/ImJuell/workDayScheduler/assets/133014136/7f8bda0a-e948-4699-b1fa-cbbf3fe936cf
 
+[](url)
+![Screen Recording 2023-09-25 at 7](https://github.com/ImJuell/workDayScheduler/assets/133014136/7f8bda0a-e948-4699-b1fa-cbbf3fe936cf)
+
+
 
